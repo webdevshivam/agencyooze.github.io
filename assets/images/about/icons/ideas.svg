@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128.471" height="143" viewBox="0 0 128.471 143">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.825" y1="0.053" x2="0.052" y2="0.984" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b500ff"/>
+      <stop offset="0.958" stop-color="#3a27ff"/>
+      <stop offset="1" stop-color="#6a64f1"/>
+    </linearGradient>
+  </defs>
+  <g id="ideas" transform="translate(-370.017 -620.53)">
+    <g id="MDI_weather-cloudy" data-name="MDI / weather-cloudy" transform="translate(370.017 663.53)" opacity="0.6">
+      <rect id="Boundary" width="128.471" height="100" opacity="0" fill="url(#linear-gradient)"/>
+      <path id="Path_weather-cloudy" data-name="Path / weather-cloudy" d="M29.743,95C13.869,95,1,80.609,1,62.857S13.869,30.714,29.743,30.714C35.492,15.607,48.714,5,64.235,5,83.953,5,100.107,22.1,101.6,43.764l2.874-.193c12.7,0,22.995,11.513,22.995,25.714S117.176,95,104.476,95H29.743m74.733-38.571h-11.5V50c0-17.752-12.869-32.143-28.743-32.143-14.372,0-26.156,11.7-28.4,26.936a16.211,16.211,0,0,0-6.094-1.221c-9.525,0-17.246,8.635-17.246,19.286s7.721,19.286,17.246,19.286h74.733c6.35,0,11.5-5.756,11.5-12.857S110.826,56.429,104.476,56.429Z" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="MDI_lightbulb-on-outline" data-name="MDI / lightbulb-on-outline" transform="translate(390.017 620.53)" opacity="0.6">
+      <g id="Boundary-2" data-name="Boundary" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0" fill="url(#linear-gradient)">
+        <rect width="89.471" height="85.859" stroke="none"/>
+        <rect x="0.5" y="0.5" width="88.471" height="84.859" fill="none"/>
+      </g>
+      <path id="Path_lightbulb-on-outline" data-name="Path / lightbulb-on-outline" d="M76.543,39.118H88.471v7.624H76.543V39.118M1,39.118H12.928v7.624H1V39.118M48.711,1V12.435H40.76V1h7.952M16.586,10.529l8.469,8.157-5.646,5.375L10.94,15.98l5.646-5.451m47.831,8.119,8.429-8.119,5.686,5.451-8.469,8.081-5.646-5.413m-19.681,1.41c13.175,0,23.856,10.24,23.856,22.871A22.771,22.771,0,0,1,56.663,62.751v6.861a3.9,3.9,0,0,1-3.976,3.812h-15.9a3.9,3.9,0,0,1-3.976-3.812V62.751A22.771,22.771,0,0,1,20.88,42.93c0-12.631,10.681-22.871,23.856-22.871m7.952,57.177v3.812a3.9,3.9,0,0,1-3.976,3.812H40.76a3.9,3.9,0,0,1-3.976-3.812V77.236h15.9M40.76,65.8h7.952V57.681A15.348,15.348,0,0,0,60.639,42.93c0-8.421-7.12-15.247-15.9-15.247s-15.9,6.826-15.9,15.247A15.348,15.348,0,0,0,40.76,57.681Z" transform="translate(0 0)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

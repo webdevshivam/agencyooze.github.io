@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129.356" height="100" viewBox="0 0 129.356 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.825" y1="0.053" x2="0.052" y2="0.984" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b500ff"/>
+      <stop offset="0.958" stop-color="#3a27ff"/>
+      <stop offset="1" stop-color="#6a64f1"/>
+    </linearGradient>
+  </defs>
+  <g id="laptop" transform="translate(0.5)" opacity="0.6">
+    <g id="Boundary" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0" fill="url(#linear-gradient)">
+      <rect width="128.356" height="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="127.356" height="99" fill="none"/>
+    </g>
+    <path id="Path_laptop" data-name="Path / laptop" d="M21.393,15.5h85.571V73H21.393m85.571,11.5c5.907,0,10.7-5.149,10.7-11.5V15.5c0-6.383-4.813-11.5-10.7-11.5H21.393C15.456,4,10.7,9.117,10.7,15.5V73c0,6.351,4.789,11.5,10.7,11.5H0V96H128.356V84.5Z" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

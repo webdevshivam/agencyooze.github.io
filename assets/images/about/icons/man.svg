@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.825" y1="0.053" x2="0.052" y2="0.984" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b500ff"/>
+      <stop offset="0.958" stop-color="#3a27ff"/>
+      <stop offset="1" stop-color="#6a64f1"/>
+    </linearGradient>
+  </defs>
+  <g id="man" opacity="0.6">
+    <g id="Boundary" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0" fill="url(#linear-gradient)">
+      <rect width="100" height="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="99" fill="none"/>
+    </g>
+    <path id="Path_account-tie-outline" data-name="Path / account-tie-outline" d="M75.07,53.969C86.282,57.416,96,63.056,96,70.889V97H4V70.889c0-7.833,9.717-13.473,20.987-16.92l3.565,6.476,1.322,2.611c-8.625,2.4-14.95,5.849-14.95,7.833V87.078H39.19L44.25,60.6l-5.4-9.818A109.216,109.216,0,0,1,50,50.157a109.216,109.216,0,0,1,11.155.627L55.75,60.6l5.06,26.477H85.075V70.889c0-1.984-6.325-5.431-14.95-7.833l1.322-2.611,3.623-6.476M50,13.444c-6.325,0-11.5,4.7-11.5,10.444S43.675,34.333,50,34.333s11.5-4.7,11.5-10.444S56.325,13.444,50,13.444m0,31.333c-12.708,0-23-9.348-23-20.889S37.292,3,50,3s23,9.348,23,20.889S62.707,44.778,50,44.778Z" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

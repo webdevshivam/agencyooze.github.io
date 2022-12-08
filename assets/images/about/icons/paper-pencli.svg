@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160.231" height="100" viewBox="0 0 160.231 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.825" y1="0.053" x2="0.052" y2="0.984" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b500ff"/>
+      <stop offset="0.958" stop-color="#3a27ff"/>
+      <stop offset="1" stop-color="#6a64f1"/>
+    </linearGradient>
+  </defs>
+  <g id="paper-pencli" transform="translate(-656.024 -853.767)">
+    <g id="MDI_note-text-outline" data-name="MDI / note-text-outline" transform="translate(656.024 853.767)" opacity="0.6">
+      <g id="Boundary" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0" fill="url(#linear-gradient)">
+        <rect width="100" height="100" stroke="none"/>
+        <rect x="0.5" y="0.5" width="99" height="99" fill="none"/>
+      </g>
+      <path id="Path_note-text-outline" data-name="Path / note-text-outline" d="M63.24,3H13.04A10.04,10.04,0,0,0,3,13.04V83.32A10.04,10.04,0,0,0,13.04,93.36H83.32A10.04,10.04,0,0,0,93.36,83.32V33.12L63.24,3M83.32,83.32H13.04V13.04H58.22v25.1h25.1M73.28,58.22H23.08V48.18h50.2M58.22,73.28H23.08V63.24H58.22" transform="translate(1.82 1.82)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="MDI_pencil-outline" data-name="MDI / pencil-outline" transform="translate(731.623 907.609) rotate(-45)" opacity="0.6">
+      <g id="Boundary-2" data-name="Boundary" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0" fill="url(#linear-gradient)">
+        <rect width="59.843" height="59.843" stroke="none"/>
+        <rect x="0.5" y="0.5" width="58.843" height="58.843" fill="none"/>
+      </g>
+      <path id="Path_pencil-outline" data-name="Path / pencil-outline" d="M37.56,21.751,40.5,24.689,12.124,53H9.25V50.127L37.56,21.751M48.81,3a3.128,3.128,0,0,0-2.187.906L40.9,9.625,52.622,21.345l5.718-5.719a3.112,3.112,0,0,0,0-4.406L51.028,3.906A3.068,3.068,0,0,0,48.81,3M37.56,12.969,3,47.533V59.253H14.718l34.56-34.564Z" transform="translate(-1.205 -1.205)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
